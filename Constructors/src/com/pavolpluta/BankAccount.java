@@ -73,7 +73,7 @@ public class BankAccount {
 
     public void withdraw(double money){
         if(this.balance > 0){
-           if (this.balance - money <= 0){
+           if (this.balance - money < 0){
                System.out.println("Only " + this.balance + "$ available. Withdrawal not processed.");
            }else{
                this.balance -= money;
