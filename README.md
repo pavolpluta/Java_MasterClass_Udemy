@@ -5,3 +5,4 @@ Projects from Udemy course - Complete Java Masterclass:
 3. Prime numbers with for statement
 4. Counting even numbers
 5. My first Java class - Bank account (with Withdrawal/Deposit methods)
+...
