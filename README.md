@@ -1,5 +1,7 @@
 # Java MasterClass Udemy 
-Projects from Udemy course - Complete Java Masterclass:
-- My first Java class - Bank account (with Withdrawal/Deposit methods)
-- Bills Burgers - OOP challenge
+Projects:
+- Bills Burgers - OOP challenge (biggest "challenge" so far)
+- Arrays - Sorting challenge using input
 ... and so on, I don't feel like write it all here.
+
+## Latter project should be a little more complex than the previous one
